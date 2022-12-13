@@ -22,7 +22,7 @@ const questions = () =>
     {
         type: 'input',
         name: 'name',
-        message: 'what is your name?',
+        message: 'What is your name?',
     },
     {
         type: 'input',

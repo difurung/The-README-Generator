@@ -1,9 +1,6 @@
 # The-README-Generator
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
+## Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
@@ -13,7 +10,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Description
 
-This application was designed to be a readme generator using JSnode and Inquirer. All that is needed is to answer a few questions and it will generate a markdown template with the added information.
+This application was designed to be a README generator using JSNode and Inquirer. All that is needed is to answer a few questions and it will generate a markdown template with the added information.
 
 
 ## Installation
@@ -23,22 +20,25 @@ To download the needed packages, run "npm install"
 ## Usage
 
 To use:
+
     - Run "index.js" in the terminal.
+
     - Answer the questions as prompted.
+
     - README will be generated in the dist folder.
+
 
 # Video Demonstration
 The demonstration of the application can be found [Here](https://watch.screencastify.com/v/bRrs8IJ4Q4n4uCgbH7n1)
 
 # Screenshot
-![alt text](assets/images/screenshot.png)
+![Screenshot of application](assets/images/README%20screenshot.png)
 
 
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
