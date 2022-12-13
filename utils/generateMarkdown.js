@@ -41,8 +41,7 @@ function renderLicenseSection(license) {
   if (license === 'none') {
     return ''}
     else {
-      return "## License"
-        
+      return "## License"        
       
     };
   
@@ -88,7 +87,6 @@ function generateMarkdown(data) {
   ${data.usage}
 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 

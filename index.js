@@ -37,7 +37,7 @@ const questions = () =>
     {
         type: 'input',
         name: 'usage',
-        message: 'Please include usage information',
+        message: 'Please include usage information:',
     },
     {
         type: 'input',
