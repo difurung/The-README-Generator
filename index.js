@@ -50,10 +50,10 @@ const questions = () =>
         message: 'What are your test instructions',
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'license',
         message: 'Choose a license:',
-        choices: ['MIT', 'Apache', 'GNU', 'Unlicense'],
+        choices: ['MIT', 'Apache', 'GNU', 'Unlicense', 'none'],
     },
     {
         type: 'input',
