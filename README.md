@@ -23,11 +23,12 @@ To download the needed packages, run "npm install"
 ## Usage
 
 To use:
-    - Run "inex.js" in the terminal.
+    - Run "index.js" in the terminal.
     - Answer the questions as prompted.
     - README will be generated in the dist folder.
 
 # Video Demonstration
+The demonstration of the application can be found [Here](https://watch.screencastify.com/v/bRrs8IJ4Q4n4uCgbH7n1)
 
 # Screenshot
 ![alt text](assets/images/screenshot.png)
